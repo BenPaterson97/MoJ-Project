@@ -5,7 +5,7 @@ Backend - NodeJS
 Database - PostgreSQL
 Frontend - ReactJS
 
-# How to use:
+## How to use:
 Install the libraries in the server and client folders separately.
 Start the backend by 'npm start' in the server folder.
 Load the webpage by 'npm start' in the client folder.
